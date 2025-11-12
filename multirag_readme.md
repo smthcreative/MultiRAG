@@ -43,7 +43,7 @@ The system follows a modular pipeline architecture:
 
 ```bash
 git clone <repository-url>
-cd multirag
+cd MultiRAG
 ```
 
 ### 2. Create Virtual Environment
